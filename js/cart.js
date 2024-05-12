@@ -57,9 +57,3 @@ cart.add('лыжи', 345, 70);
 cart.print();
 console.log(cart);
 
-
-const category = 'toys';
-
-console.log('https://someurl.com/' + category);
-console.log(`https://someurl.com/${category}`);
-
