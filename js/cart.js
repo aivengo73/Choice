@@ -1,4 +1,4 @@
-/* eslint-disable require-jsdoc */
+
 'use strict';
 
 // Проверьте файл cart.js на ошибки
